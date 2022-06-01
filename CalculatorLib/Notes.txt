@@ -1,0 +1,23 @@
+﻿exercices 4.1
+1. void means it returns nothing => has no return value
+2. imperative : How to perform tasks (algorithms) and how to track changes in state.
+functional : What information is desired and what transformations are required.
+3. F5 run, F5 + Ctrl : run without debugging, shift + F5 stop, cmd + shift + F5 restart
+4. terminal or command line
+5. Error	1	
+Output error-handling messages.
+Info	3	
+Output informational messages, warnings, and error-handling messages.
+Off	0	
+Output no tracing and debugging messages.
+Verbose	4	
+Output all debugging and tracing messages.
+Warning	2	
+Output warnings and error-handling messages.
+6. The Debug class helps us debug code, and the Trace class helps us trace the execution of code.
+The Debug class is intended for debug builds, and the Trace class is used for release builds. 
+=> debug is only active during development. Trace is active during development and following release into production
+7. to test a function, Arrange, Act, Assert
+8.[FACT] => or [Theory]
+9. dotnet test
+10.throw
