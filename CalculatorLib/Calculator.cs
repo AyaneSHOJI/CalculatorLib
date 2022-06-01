@@ -12,12 +12,12 @@
 
 // p.163 How to do a Unit test ?
 // Create a function, then Build CalculatorLib
-// Add a new project(xUnit) from CalculatorLib project (DO NOT CREATE IT IN OTHER FOLDER), Choose xUnit Test Project
-// Right click on xUnit and add Project Referece pf CalculatorLib
+// Add a new project from CalculatorLib project (DO NOT CREATE A NEW FOLDER), Choose "xUnit Test Project" type
+// Right click on xUnit dependencies "Add Project Reference"
 // Add CalculatorLib and click OK
 // Build CalculatorLibUnitTests
 // Write unit test as below
-// Go to Test of main menu
+// Go to Test of main menu and "Run all tests"
 
 // Writing unit tests
 // Three parts 3A : Arrange, Act, Assert
